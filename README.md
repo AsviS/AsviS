@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Ihor
+# Hi there 👋 
+# I'm Ihor
 **Backend Developer (Node.js / PHP)**
 
 📍 Ukraine | 🌍 Open for Remote Work 
