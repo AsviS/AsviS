@@ -85,7 +85,7 @@ I’m a backend developer with hands-on experience in **PHP, Laravel, Node.js, T
 ---
 
 ### 💬 Communication
-![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+Telegram - [@asv1s](https://t.me/asv1s)
 
 
 ---
