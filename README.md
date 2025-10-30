@@ -16,7 +16,6 @@ I’m a backend developer with hands-on experience in **PHP, Laravel, Node.js, T
 - **Frameworks & CMS**: Express.js, Strapi, Laravel (basic), Puppeteer, Telegraf.js  
 - **Databases**: PostgreSQL, MongoDB, MySQL  
 - **Integrations**: REST API, Stripe, Primer.io, OPPWA, CatalystPay, eMerchantPay, Postmark  
-- **DevOps**: Git, GitHub Actions (CI/CD), PM2, Nginx  
 
 ---
 
