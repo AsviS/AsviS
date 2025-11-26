@@ -6,7 +6,7 @@
 
 **Backend Developer (Node.js / PHP)**
 
-📍 Ukraine | 🌍 Open for Remote Work 
+📍 🌍 Open for Remote Work 
 
 ---
 
