@@ -4,7 +4,7 @@
 
 ![Wave](https://media1.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-**Backend Developer (Node.js / PHP)**
+**Backend Developer (Node.js / TypeScript / PHP)**
 
 📍 🌍 Open for Remote Work 
 
