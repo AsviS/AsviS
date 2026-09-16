@@ -20,7 +20,6 @@ I’m a backend developer with hands-on experience in designing, building, and m
 - 💳 Hands-on with **payment gateway integrations** — Stripe, Primer.io, OPPWA, CatalystPay, eMerchantPay
 - 🗄 Experienced with **PostgreSQL, MySQL,** and **MongoDB**; designed and optimized data models and queries. Worked with **TypeORM** for data access layer. Implemented background processing using **Redis** and **BullMQ** queues.
 - 🚀 Building production-grade open-source pet projects on **NestJS + TypeScript** in my spare time
-- 🌱 Currently exploring **NestJS**, Docker, **Kubernetes**, microservices architecture, **Laravel** and OOP patterns
 
 ---
 
