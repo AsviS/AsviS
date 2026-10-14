@@ -6,8 +6,6 @@
 
 ### Backend Developer · Node.js / TypeScript / PHP
 
-![Profile views](https://komarev.com/ghpvc/?username=AsviS&color=00C2FF&style=flat-square&label=Profile+views)
-
 </div>
 
 ---
